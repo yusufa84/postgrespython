@@ -1,0 +1,5 @@
+config_reader.py
+    This shows an example to read the config file to get the database connection details
+
+dbconnect.py
+    This shows an example to connect to the postgres database on the local server
