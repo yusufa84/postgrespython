@@ -3,3 +3,13 @@ config_reader.py
 
 dbconnect.py
     This shows an example to connect to the postgres database on the local server
+
+dboperations.py
+    This shows various example to do the following actions with database
+    a. create tables
+    b. insert single row data in the tables
+    c. insert multiple row data in the tables
+    d. update row data
+    e. retrieve the data from the table
+    f. call stored proc
+    g. write/read blob data
